@@ -15,7 +15,7 @@ One-shot Neural Architecture Search uses a single supernet to approximate the pe
 ## Paper 
 [Few-shot Neural Architecture Search](http://proceedings.mlr.press/v139/zhao21d/zhao21d.pdf)
 
-If you use the PointAR data or code, please cite: 
+If you use the few-shot NAS data or code, please cite: 
 
 ```bibtex
 @InProceedings{pmlr-v139-zhao21d,
