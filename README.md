@@ -46,15 +46,18 @@ Please refer <a href="./Few-Shot-NAS_cifar10">**here**</a> to test our state-of-
 
 ## Media Coverage
 
-### Chinese version
-[文字介绍](https://mp.weixin.qq.com/s/X0flnuKKOnQkamjCxD_KrQ)
+### English version
+[Facebook AI Research blog post](https://ai.facebook.com/blog/introducing-few-shot-neural-architecture-search/)
+[Poster](https://drive.google.com/file/d/1T6HyqXGA3LFotkJC0dd855vaEW0r6I_L/view?usp=sharing)
 
-[直播回放](https://jmq.h5.xeknow.com/s/2nndbz)
+
+### Chinese version
+[机器之心专栏文字介绍](https://mp.weixin.qq.com/s/X0flnuKKOnQkamjCxD_KrQ)
+
+[机器之心专栏直播回放](https://jmq.h5.xeknow.com/s/2nndbz)
 
 [Bilibili](https://b23.tv/1uQxRu)
 
-### English version
-[Poster](https://drive.google.com/file/d/1T6HyqXGA3LFotkJC0dd855vaEW0r6I_L/view?usp=sharing)
 
 
 ## Acknowledgement
