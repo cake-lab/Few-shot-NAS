@@ -24,7 +24,6 @@ If you use the few-shot NAS data or code, please cite:
   booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
   pages = 	 {12707--12718},
   year = 	 {2021},
-  editor = 	 {Meila, Marina and Zhang, Tong},
   volume = 	 {139},
   series = 	 {Proceedings of Machine Learning Research},
   month = 	 {18--24 Jul},
@@ -49,7 +48,7 @@ Please refer <a href="./Few-Shot-NAS_cifar10">**here**</a> to test our state-of-
 ### English version
 [Facebook AI Research blog post](https://ai.facebook.com/blog/introducing-few-shot-neural-architecture-search/)
 
-[Poster](https://drive.google.com/file/d/1T6HyqXGA3LFotkJC0dd855vaEW0r6I_L/view?usp=sharing)
+[Poster](https://drive.google.com/file/d/1veYZpNgUpoedyEqvQ0iH3tM-qXNLmxYB/view?usp=sharing)
 
 
 ### Chinese version
