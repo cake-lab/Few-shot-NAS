@@ -48,6 +48,7 @@ Please refer <a href="./Few-Shot-NAS_cifar10">**here**</a> to test our state-of-
 
 ### English version
 [Facebook AI Research blog post](https://ai.facebook.com/blog/introducing-few-shot-neural-architecture-search/)
+
 [Poster](https://drive.google.com/file/d/1T6HyqXGA3LFotkJC0dd855vaEW0r6I_L/view?usp=sharing)
 
 
