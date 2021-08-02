@@ -35,7 +35,7 @@ If you use the PointAR data or code, please cite:
 ```
 
 
-## How to use the repo
+## How to use 
 
 ### Few-shot NAS on NasBench201
 Please refer <a href="./Few-Shot_NasBench201">**here**</a> to see how to use few-shot NAS improve the search performance on NasBench201.
@@ -44,7 +44,7 @@ Please refer <a href="./Few-Shot_NasBench201">**here**</a> to see how to use few
 Please refer <a href="./Few-Shot-NAS_cifar10">**here**</a> to test our state-of-the-art models searched by few-shot NAS.
 
 
-## Media coverage
+## Media Coverage
 
 ### Chinese version
 [文字介绍](https://mp.weixin.qq.com/s/X0flnuKKOnQkamjCxD_KrQ)
